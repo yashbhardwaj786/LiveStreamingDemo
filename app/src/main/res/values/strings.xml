@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Live Streaming</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+
+    <string name="pos">1</string>
+    <string name="name">2</string>
+    <string name="track">3</string>
+    <string name="url">4</string>
+    <string name="img">5</string>
+
+    <string name="about_channel">Watch episodes the same time they air on TV, with Premium membership. All episodes continue to be available for free day after TV.</string>
+    <string name="tag1">Drama</string>
+    <string name="tag2">Hindi</string>
+    <string name="tag3">Star Plus</string>
+    <string name="edisode_detail">62 Seasons . 2462 Episodes . 178 Clips</string>
+    <string name="about_episode">is a Hindi Filmy drama. After her arranged married the Naitik Sharma and Akansha gradually falls in love with him and finally...</string>
+
+
+</resources>
